@@ -1,3 +1,3 @@
 ﻿using Project;
 
-Programm1.main();
+Programm3.main();
